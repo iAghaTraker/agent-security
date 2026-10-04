@@ -1,0 +1,121 @@
+iAghaTraker Proprietary License
+Version 1.0 — 4 October 2026
+
+Copyright (c) 2026 iAghaTraker. All rights reserved.
+
+NOTICE: This is not an OSI-approved open source license. This software is
+proprietary and may not be redistributed, republished, or made available to
+third parties without prior written permission from the Licensor.
+
+
+1. Definitions
+
+"Licensor" means iAghaTraker, the copyright holder of this work.
+"Software" means the source code, object code, build artifacts, configuration
+files, documentation, and any associated materials distributed under this
+License.
+"You" means any individual or legal entity exercising permissions granted by
+this License.
+"Authorized Users" means You and any third party You have expressly authorized
+in writing.
+"Derivative Work" means any modified or unmodified copy, translation, port, or
+based-upon version of the Software.
+
+
+2. Grant of Rights
+
+Subject to the terms and conditions of this License, the Licensor grants You a
+worldwide, non-exclusive, non-transferable, revocable, royalty-free license to:
+
+  a. use the Software solely for Your own internal business operations;
+  b. inspect and study the Software's source code;
+  c. create Derivative Works for Your own internal use.
+
+All rights not expressly granted herein are reserved by the Licensor.
+
+
+3. Restrictions
+
+Unless expressly permitted by the Licensor in a separate written agreement,
+You may NOT:
+
+  a. publish, redistribute, sublicense, sell, rent, or lease the Software, in
+     whole or in part, including as a dependency of another product;
+  b. copy the Software into a private or public repository other than one owned
+     by the Licensor;
+  c. remove, alter, or obscure any copyright, license, or attribution notice;
+  d. use the Software, or any Derivative Work, to build a competing product or
+     service that is offered to third parties;
+  e. sublicense, disclose, or otherwise make available the Licensor's source
+     code to any third party;
+  f. represent that You are the author or owner of the Software.
+
+A Derivative Work may only be used internally and remains subject to this
+License.
+
+
+4. Ownership
+
+The Licensor retains all right, title, and interest in and to the Software,
+including all intellectual property rights not expressly granted herein. No
+rights are granted other than those stated in this License.
+
+Feedback, suggestions, or bug reports you provide may be used freely by the
+Licensor without obligation to you.
+
+
+5. Third-Party Components
+
+The Software may depend on third-party software licensed under separate terms.
+Those licenses govern the use of those components. The Licensor makes no
+warranty regarding third-party components.
+
+
+6. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THE LICENSOR DOES NOT WARRANT
+THAT THE SOFTWARE WILL BE ERROR-FREE OR UNINTERRUPTED.
+
+The Software monitors and gates access to computer systems. You are solely
+responsible for testing, configuring, and validating its behavior in your
+environment. The Licensor is not liable for any loss of data, service
+interruption, unauthorized access, or other damage arising from your use of,
+misconfiguration of, or inability to use the Software.
+
+
+7. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, OR BUSINESS
+INTERRUPTION, ARISING OUT OF OR IN CONNECTION WITH THE SOFTWARE OR ITS USE,
+REGARDLESS OF THE THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+
+8. Termination
+
+This License terminates automatically if You breach any of its terms. Upon
+termination, You must immediately cease all use of the Software and destroy
+all copies in your possession or control.
+
+
+9. Governing Law
+
+This License is governed by the laws applicable at the Licensor's principal
+place of business, without regard to conflict-of-law provisions. Any dispute
+arising from this License shall be resolved exclusively in the courts located
+at the Licensor's principal place of business.
+
+
+10. Changes
+
+The Licensor may modify this License at any time. Continued use of the Software
+after a modification constitutes acceptance of the modified terms.
+
+For commercial licensing inquiries, contact the Licensor.
+
+
+iAghaTraker Proprietary License — Version 1.0

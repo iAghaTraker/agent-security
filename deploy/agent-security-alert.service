@@ -1,0 +1,30 @@
+[Unit]
+Description=Agent Security Telegram Alert Daemon
+After=network-online.target systemd-journald.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/agent-security-alert
+EnvironmentFile=/etc/agent/security-alert.env
+ExecStart=/usr/bin/python3 -m alertbot
+Restart=always
+RestartSec=5
+
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=read-only
+ReadOnlyPaths=/var/log/auth.log /etc/nginx /etc/ssh /etc/agent /opt/agent-security-alert
+ReadWritePaths=/var/log/agent-security-alert.log /var/lib/agent-security-alert /run/agent-security-alert
+StateDirectory=agent-security-alert
+StateDirectoryMode=0700
+RuntimeDirectory=agent-security-alert
+RuntimeDirectoryMode=0700
+UMask=0077
+CapabilityBoundingSet=
+RestrictAddressFamilies=AF_UNIX AF_INET AF_INET6
+
+[Install]
+WantedBy=multi-user.target

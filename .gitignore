@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# secrets & never commit
+*.env
+!deploy/example.env
+security-alert.env
+
+# local scratch
+*.log
+.DS_Store
+
+# build artifacts
+dist/
+build/

@@ -1,0 +1,4 @@
+include README.md
+include LICENSE
+recursive-include deploy *.service *.sh *.env
+recursive-include docs *.md
