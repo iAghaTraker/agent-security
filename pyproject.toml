@@ -8,7 +8,8 @@ version = "1.0.0"
 description = "Telegram alerting daemon for server events (SSH, systemd, filesystem, fail2ban, CrowdSec, dangerous commands)"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "iAghaTraker Proprietary License 1.0" }
+license = "MIT"
+license-files = ["LICENSE"]
 keywords = ["security", "telegram", "alerting", "fail2ban", "crowdsec", "auditd"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -21,6 +22,7 @@ classifiers = [
     "Programming Language :: Python :: 3.12",
     "Topic :: Security",
     "Topic :: System :: Monitoring",
+    "License :: OSI Approved :: MIT License",
 ]
 # Standard library only — no runtime dependencies.
 dependencies = []
